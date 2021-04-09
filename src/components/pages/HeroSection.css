@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.container{
+    
+}
+
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -500%);
+}
+
+.card{
+    background-image: linear-gradient(to left, rgb(255, 255, 255), rgb(37, 250, 37));
+    height: 40vh;
+    width: 190px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+img{
+    height: 200px;
+    margin-left: -20px;
+}
+
+.imageBox{
+height: 15vh;
+width: 100px;
+}
+
+.info{
+    padding-top: 100px;
+}
+
+.name{
+padding-left: 40px;
+}
+
+.type, .move{
+   padding-left: 30px;
+}
