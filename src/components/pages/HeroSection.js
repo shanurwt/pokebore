@@ -9,8 +9,6 @@ const base ='https://pokeapi.co/api/v2/pokemon/' + i;
 
 
 
-
-
 function HeroSection() {
 
     const [name, setName] = useState();
@@ -18,7 +16,9 @@ function HeroSection() {
     const [type, setType] = useState();
     const [ability, setAbility] = useState();
     
-
+    function refreshPage() {
+        window.location.reload(false);
+      }
 
     useEffect(() => {
         async function getData(){
@@ -55,7 +55,7 @@ function HeroSection() {
             </div>
 
             <div className="btn">
-                <button>For new</button>
+                <button onClick={refreshPage} >For new</button>
             </div>
         </div>
     )
