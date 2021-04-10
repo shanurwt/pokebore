@@ -23,7 +23,6 @@ function HeroSection() {
     useEffect(() => {
         async function getData(){
             const res = await axios.get(base);
-            console.log(res);
             setName(res.data.species.name);
             setUrl(res.data.sprites.front_default);
             setType(res.data.types[0].type.name);
