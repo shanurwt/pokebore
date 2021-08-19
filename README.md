@@ -6,7 +6,7 @@
 ### It's RESPONSIVE(because you can get bore anywhere and at anytime.)
 ### You can check this site [here.](https://pokebore.netlify.app/)
 -------------------------------------------------------------------------
-###  👀 👀 Here is a preview 👀 👀
+###  👀 Here is a preview 👀
 
 ![](./public/images/ss.png)
 
