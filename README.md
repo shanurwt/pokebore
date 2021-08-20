@@ -1,8 +1,6 @@
 <h1 align="center"> PokeBore </h1>
 <h2 align="center"> A random pokemon finder to kill your boredom. </h2>
 
--------------------------------------------------------------------
-
 ### It's RESPONSIVE(because you can get bore anywhere and at anytime.)
 ### You can check this site [here.](https://pokebore.netlify.app/)
 -------------------------------------------------------------------------
