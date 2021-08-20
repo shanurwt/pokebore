@@ -1,4 +1,4 @@
-<h1> PokeBore </h1>
+<h1 center> PokeBore </h1>
 ## A random pokemon finder to kill your boredom.
 
 -------------------------------------------------------------------
