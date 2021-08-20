@@ -14,8 +14,8 @@
 
 1. Clone the code 💾
 
-2. Install all dependencies  ❗ ❗ 
+2. Install all dependencies  ❗ 
 
-3. *Run🏃‍♂️ the code with npm start*
+3. Run🏃‍♂️ the code with npm start
 
-4. *Booyah!!! 🔥 🔥*
+4. Booyah!!! 🔥 🔥
