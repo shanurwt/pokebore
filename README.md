@@ -12,9 +12,9 @@
 
 # To Run the code on your system: 
 
-1. *💾 Clone the code 💾*  
+1. Clone the code 💾
 
-2. *Install all dependencies  ❗ ❗ *
+2. Install all dependencies  ❗ ❗ 
 
 3. *Run🏃‍♂️ the code with npm start*
 
